@@ -1,0 +1,10 @@
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.csproj.CoreCompileInputs.cache
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.AssemblyInfoInputs.cache
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.AssemblyInfo.cs
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.deps.json
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.runtimeconfig.json
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.runtimeconfig.dev.json
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.dll
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.dll
+c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb
