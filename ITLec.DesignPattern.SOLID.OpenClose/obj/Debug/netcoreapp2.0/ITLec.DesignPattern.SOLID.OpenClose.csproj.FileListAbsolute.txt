@@ -8,3 +8,14 @@ c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec
 c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb
 c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.dll
 c:\users\rasheed\documents\visual studio 2017\Projects\ITLec.DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.deps.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.runtimeconfig.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.runtimeconfig.dev.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.csprojResolveAssemblyReference.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.csproj.CoreCompileInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.AssemblyInfoInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.AssemblyInfo.cs
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.OpenClose\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.OpenClose.pdb

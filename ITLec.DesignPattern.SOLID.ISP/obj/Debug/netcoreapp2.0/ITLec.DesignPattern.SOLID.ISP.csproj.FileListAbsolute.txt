@@ -1,0 +1,10 @@
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.deps.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.runtimeconfig.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.runtimeconfig.dev.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.pdb
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.csproj.CoreCompileInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.AssemblyInfoInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.AssemblyInfo.cs
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.SOLID.ISP\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.SOLID.ISP.pdb

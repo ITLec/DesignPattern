@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.OpenClose\\ITLec.DesignPattern.SOLID.OpenClose.csproj",
-      "projectName": "ITLec.DesignPattern.SOLID.OpenClose",
-      "projectPath": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.OpenClose\\ITLec.DesignPattern.SOLID.OpenClose.csproj",
+      "projectUniqueName": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.ISP\\ITLec.DesignPattern.SOLID.ISP.csproj",
+      "projectName": "ITLec.DesignPattern.SOLID.ISP",
+      "projectPath": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.ISP\\ITLec.DesignPattern.SOLID.ISP.csproj",
       "packagesPath": "C:\\Users\\Rasheed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.OpenClose\\obj\\",
+      "outputPath": "C:\\Users\\Rasheed\\Source\\Repos\\DesignPattern\\DesignPattern\\ITLec.DesignPattern.SOLID.ISP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
