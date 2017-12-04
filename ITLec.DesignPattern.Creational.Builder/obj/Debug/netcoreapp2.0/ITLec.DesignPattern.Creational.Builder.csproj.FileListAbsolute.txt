@@ -1,0 +1,11 @@
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.deps.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.runtimeconfig.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.runtimeconfig.dev.json
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\bin\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.pdb
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.csproj.CoreCompileInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.AssemblyInfoInputs.cache
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.AssemblyInfo.cs
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.dll
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.pdb
+C:\Users\Rasheed\Source\Repos\DesignPattern\DesignPattern\ITLec.DesignPattern.Creational.Builder\obj\Debug\netcoreapp2.0\ITLec.DesignPattern.Creational.Builder.csprojResolveAssemblyReference.cache
